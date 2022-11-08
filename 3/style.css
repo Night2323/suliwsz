@@ -1,0 +1,27 @@
+body{
+    margin: 40px 0 0 0;
+    background-color: darkgray;
+}
+
+h1{
+    background-color: #88C3DB;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 100px 0  0 100px;
+}
+
+p.c1{
+    background-color: #88C3DB;
+    padding: 20px;
+    padding-right: 30px;
+    margin-right: 50px;
+    border-radius: 0 50px 50px 0;
+}
+
+p.c2{
+    background-color: #88C3DB;
+    padding: 20px;
+    padding-left: 30px;
+    margin-left: 50px;
+    border-radius: 50px 0  0 50px;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: green;
+    background-image: url(https://th.bing.com/th/id/R.88a042afad6c59835c98a4d955c98a92?rik=kypPhjopyCpfEQ&pid=ImgRaw&r=0);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position-y: -200px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1{
+    background-color: rgb(185, 0, 77);
+    text-align: center;
+    margin: 0 40% 0 40%
+}
+
+p{
+    color:rgb(255, 60, 0);
+    background-color: rgba(100,120,80,0.50);
+    margin-left: 10px;
+    margin-right: 10px;
+}

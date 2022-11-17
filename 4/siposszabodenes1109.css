@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+    margin-top: 0px;
+    padding-top: 0px;
+    background-color: lightgray;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin: 0px;
+}
+
+a {
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: #5869ff;
+    color:white;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+}
+
+a:hover{
+    padding: 30px;
+    text-decoration: underline;
+    background-color: #a2abff;
+}
+
+a:active{
+    background-color: rgb(255, 55, 55);
+}
+
+p {
+    text-align: center;
+    margin:70px;
+}
